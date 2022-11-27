@@ -1,0 +1,235 @@
+.btn-center{
+    text-align: center;
+  }
+
+.icon-mar{
+  margin-left: 5px;
+}
+
+.fa-edit{
+  color: #8e4304;
+}
+.fa-edit:hover{
+  color: #007bff;
+}
+.fa-trash{
+  color: #343a40;
+}
+.fa-trash:hover{
+  color: #080808;
+}
+
+.colorRed{
+    background: #c54343 !important;
+}
+.edithead{
+    background: #343a40 !important;
+}
+.cardcolor{
+    background: rgb(96, 142, 180,0.2);
+}
+.formborder{
+    border: 1px solid #ca6f6f;
+}
+.colorbutton{
+    background: #c54343;
+    border: none; 
+}
+.manageBack{
+    background: #212529 !important;
+}
+.primary-highliter{
+    background: #ffc10782;
+    color: #000;
+}
+.secondary-highlight{
+    background: #20c99766;
+    color: #000;   
+}
+.custom_nav_color{
+    background-color: #a9f9e1;
+    color: #1f2d3d;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: 58px;
+}
+}
+.link_custom{
+    color: #343a40 !important;
+
+}
+.link_custom:hover{
+    color: red !important;
+}
+
+.custom_nav_colormain{
+    background-color: #4a92de;
+    box-shadow: 1px 1px 10px 0px #888888;
+    border-bottom: 0px;
+
+}
+.togole_color{
+    color: #fff;
+}
+.custom_height{
+    height: 29px !important;
+}
+
+
+/*profile css strat***************************************************/
+.customborder{
+    border: 1px solid #ad55551a;
+}
+.heroarea{
+    background: #f9f3f3;
+    width: 65px;
+    margin: 0 auto;
+    color: red;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+.profile-nav, .profile-info{
+    margin-top:30px !important;   
+}
+.profile-nav .user-heading {
+    background: #67a8ef;
+    color: #fff;
+    border-radius: 4px 4px 0 0;
+    -webkit-border-radius: 4px 4px 0 0;
+    padding: 30px !important;
+    text-align: center !important;
+}
+
+.profile-nav .user-heading.round a  {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border: 5px solid rgba(255,255,255,0.5);
+    display: inline-block;
+}
+
+.profile-nav .user-heading a img {
+    width: 112px;
+    height: 112px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+.profile-nav .user-heading h1 {
+    font-size: 22px;
+    font-weight: 300;
+    margin-bottom: 5px !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.profile-nav .user-heading p {
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.profile-nav ul {
+    margin-top: 1px !important;
+    background: #0e2338;
+    padding: 5px 0px 5px 0px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.profile-nav ul:hover{
+    color: white !important; 
+    background: #717c86;;
+   transition: linear .5s;
+}
+.profile-nav ul > li {
+    border-bottom: 1px solid #ebeae6;
+    margin-top: 0;
+    line-height: 30px !important;
+}
+
+.profile-nav ul > li:last-child {
+    border-bottom: none;
+    margin: 0 auto;
+}
+
+.profile-nav ul > li > a {
+    color: white;
+   
+}
+.profile-nav ul > li > a > i{
+    font-size: 16px;
+    padding-right: 5px;
+    color: white;
+}
+.profile-nav ul > li > a > i:hover{
+    color: unset;
+}
+
+
+
+.p-text-area, .p-text-area:focus {
+    border: none;
+    font-weight: 300;
+    box-shadow: none;
+    color: #c3c3c3;
+    font-size: 16px;
+}
+
+
+.bio-graph-heading {
+    background: #343a40;
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+    padding: 10px 110px;
+    border-radius: 4px 4px 0 0;
+    -webkit-border-radius: 4px 4px 0 0;
+}
+
+.bio-graph-info {
+    color: #89817e;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background: white;
+    box-shadow: 0px 0px 4px 0px #888;
+}
+
+.bio-graph-info h1 {
+    font-size: 22px;
+    font-weight: 300;
+    margin: 0 0 20px;
+}
+
+.bio-row {
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
+    padding:0 15px;
+}
+
+.bio-row p span {
+    width: 100px;
+    display: inline-block;
+}
+
+.bio-desk h4 {
+    font-size: 15px;
+    font-weight:400;
+}
+.font-fam{
+    font-family: 'Open Sans', sans-serif;;
+}
+
+/*profile css end*/
+.main-header {
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1037;
+}
+.main-header {
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 1033;
+}
